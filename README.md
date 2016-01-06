@@ -27,6 +27,10 @@ This is a minimal example of project with BLE hygrometer. It works with [iOS app
 
 <img src="https://raw.githubusercontent.com/hori/BleHygrometerArduino/images/breadboard.jpg" width="400">
 
-## iOS app
 
-https://github.com/hori/BleHygrometer/
+## How to use
+
+It needs [iOS app](https://github.com/hori/BleHygrometer/).
+
+Please see at:
+[https://github.com/hori/BleHygrometer/](https://github.com/hori/BleHygrometer/)
